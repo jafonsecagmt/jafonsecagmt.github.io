@@ -1,0 +1,6 @@
+Assets/AssetBundles/WebGL/carsContent.txt
+Assets/Cars/T001_G_Y_B.jpeg
+Assets/Cars/T002_Y_G_B.png
+Assets/Cars/T003_G_G_G.png
+Assets/Cars/T004_Y_G_E.png
+Assets/Cars/T005_Y_G_E.jpeg

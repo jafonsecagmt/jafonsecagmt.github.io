@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2980487273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9b032cd8a82c54f4dd3ae9acde53081
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f73bf4575117d03472577b0bcfa36a4a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/WebGL/carsContent.txt
+- Assets/Cars/T002_Y_G_B.png
+- Assets/Cars/T001_G_Y_B.jpeg
+- Assets/Cars/T004_Y_G_E.png
+- Assets/Cars/T003_G_G_G.png
+- Assets/Cars/T005_Y_G_E.jpeg
+Dependencies: []
